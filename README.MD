@@ -12,8 +12,8 @@ Sinta-se livre para fazer um fork e adicionar feature e ajustar da maneira que p
 Se você ainda não fez, clone o repositório do seu projeto para o seu computador:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <DIRETORIO_DO_PROJETO>
+git clone https://github.com/JohnPonciano/Sistema-Ponto.git
+cd Sistema-ponto
 ```
 
 ## Requisitos
